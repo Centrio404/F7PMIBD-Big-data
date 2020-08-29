@@ -1,5 +1,9 @@
 # Program cvičení
 
+- PŘIDAT - PŘENOS DAT DO BDP
+- SCHEDULING
+
+
 ## 1. cvičení
 
 - organizace semestru, úkoly, bodování, hodnocení

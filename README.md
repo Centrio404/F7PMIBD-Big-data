@@ -1,5 +1,17 @@
+# Organizace semestru
+
+* Cvičení každý lichý týden v pondělí 14:00 (dvojcvičení).
+* Zápočet:
+  * Domácí úkoly - celkem 50 bodů
+  * Semestrální práce - celkem 50 bodů
+    * Vlastní aplikace, řešený problém pomocí Big Data technologií na BD clusteru
+* Zkouška:
+  * Ústní praktická - demonstrace schopnosti práce s Big Data technologiemi a diskuze o semestrální práci
+
+
 # Program cvičení
 
+#### BACKLOG
 - PŘIDAT - PŘENOS DAT DO BDP
 - SCHEDULING
 
